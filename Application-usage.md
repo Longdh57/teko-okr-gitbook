@@ -1,31 +1,22 @@
-# Multi-client capability
-
-Several companies can be created and managed per installed instance.
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/8e72d136-e373-4817-bb02-ff056d069eea)
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/6a245863-4002-4c17-9652-97af85ff8177)
-
 # Navigation
 
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/3eee11a9-905b-45d9-852a-fd490fe9c668)
+![img.png](img.png)
+Includes:
+- Homepage: Provide dashboard to overview about OKR process of company
+- Circle Management: Manage cycle of a company
+- OKR Management: Manage OKR of a company by Cycle, domain & team
 
 # OKR-Cycles
 
-The OKR cycles within a company can be freely defined. If a new cycle is defined, the team composition and objectives for all teams are copied from the current cycle into the new cycle. Key Results are not copied.  
-The following data always apply per cycle:
+The OKR cycles within a company can be freely defined  
 
-* Team members
-* Objectives
-* Key Results
+Step 1: Click Create OKR
+![img_1.png](img_1.png)
 
-When the application is started, the current cycle is always selected. The active cycle is displayed in the upper horizontal navigation bar and can also be changed there:  
-
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/b9914940-48cf-4e72-9105-3bcbd780e78b)
-
-The processing and creation of new cycles is done via the cycle management:  
-
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/e443354e-c91b-4c95-a17c-32277b2d22ae)
-
-![image](https://github.com/BurningOKR/BurningOKR/assets/58937536/708c42e3-6cd1-451d-9d1f-b7abae2e12f3)
+Step2: Input Data
+> Active Day cannot overlap with another cycle
+> 
+![img_3.png](img_3.png)
 
 # OKR-Planning
 
